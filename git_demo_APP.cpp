@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"Exploring Git";
+	cout<<"Exploring Git"<<endl;
+	cout<<"Hey boy";
 }
